@@ -1,0 +1,7 @@
+free.c
+    ft_free_cmd --> fix
+open_files.c
+    mode 0600 --> 0644
+error message
+    print at exit_child_process
+removed openfile_status
